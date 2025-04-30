@@ -1,1 +1,1 @@
-<!-- Basketball Scoreboard Project -->
+Basketball Scoreboard Project
